@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="gl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Stream Benéfico por Palestina</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Roboto', sans-serif;
+      background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
+      color: white;
+      padding: 2rem;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+    header img {
+      max-height: 100px;
+    }
+    h1 {
+      font-size: 2.5rem;
+      color: #00ffff;
+    }
+    h2 {
+      color: #ff50c8;
+      font-size: 2rem;
+      margin-bottom: 0.5rem;
+    }
+    .content {
+      max-width: 1000px;
+      margin: 0 auto;
+      background: rgba(255, 255, 255, 0.05);
+      border-radius: 12px;
+      padding: 2rem;
+    }
+    iframe {
+      width: 100%;
+      height: 600px;
+      border: none;
+      border-radius: 8px;
+      margin-top: 1rem;
+    }
+    footer {
+      margin-top: 3rem;
+      text-align: center;
+      font-size: 0.9rem;
+      opacity: 0.7;
+    }
+    a {
+      color: #00ffff;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="ChatGPT Image 20 jun 2025, 17_33_57(1).jpg" alt="Alberto Busto logo">
+    <h1>Stream Benéfico por Palestina</h1>
+    <p><strong>Consulta os sorteos actualizados doados por artistas e festivais galegos</strong></p>
+  </header>
+  <div class="content">
+    <h2>🎁 Sorteos</h2>
+    <p>A continuación podes consultar directamente a folla cos sorteos:</p>
+    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT6M-YdHMZtkOwHtONH9avzOpBIrJY97FZ6zG2CKn9Y5ydbMJGCUMbw0AqGmNGUkKm-bAS-5fyqllDA/pubhtml?widget=true&amp;headers=false"></iframe>
+    <p>Esta páxina irase actualizando a medida que se confirmen novas doazóns. Grazas por colaborar!</p>
+  </div>
+  <footer>
+    Feito por Alberto Busto · <a href="https://www.twitch.tv/albertobusto" target="_blank">Twitch</a> · <a href="https://www.instagram.com/alberto_busto_/" target="_blank">Instagram</a>
+  </footer>
+</body>
+</html>
